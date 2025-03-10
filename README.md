@@ -28,7 +28,8 @@ Styling -
 
 
 Tools - 
-![](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)![](https://img.shields.io/badge/GitHub-%23ffffff?style=for-the-badge&logo=github&logoColor=black)
+![](https://img.shields.io/badge/GitHub-%23ffffff?style=for-the-badge&logo=github&logoColor=black)
+![](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![](	https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
